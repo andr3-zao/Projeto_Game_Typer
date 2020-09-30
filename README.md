@@ -19,3 +19,5 @@ E será possível abrir o site pela sua porta local (http://localhost:3000/princ
 3 - Botão Azul escuro: Esse botão serve para trocar a frase, frases que estão em um localhost (http://localhost:3000/frases)
 4 - Botão Azul claro: Botão que também serve para troca frase, só que nela você pode seleciona a frase pelo o número, colocando o número dela na barra de input ao lado.
 5 – Botão Amarelo – Serve para enviar as informações que estão no placar para o servidor (http://localhost:3000/placar)
+
+fim()
