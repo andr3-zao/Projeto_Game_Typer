@@ -10,7 +10,7 @@ Com o esgota do tempo os pontos são computados no placar.
 O projeto só funciona abrindo pela sua porta de localhost. 
 Então para isso é necessário ativar o servidor.
 É preciso abrir esse caminho pelo cmd ..\Typer\servidor, e digita "npm start", assim o servidor irar iniciar.
-E será possível abrir o site pela sua porta local (http://localhost:3000/principal.html) e pode interagir com a pagina.
+E será possível abrir o site pela sua porta local (http://localhost:3000/principal.html) e pode interagir com a página.
 
 **DESCRIÇÃO SOBRE OS BOTÕES** 
 
